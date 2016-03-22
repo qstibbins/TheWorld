@@ -1,0 +1,12 @@
+﻿//simpleControls.js
+(function () {
+    angular.module("simpleControls", [])
+        .directive("waitCursor", waitCursor);
+
+    function waitCursor() {
+        return {
+            templateUrl: "/views/waitCursor.html"
+        };
+    }
+    
+})();

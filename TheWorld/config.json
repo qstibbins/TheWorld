@@ -1,0 +1,11 @@
+{
+  "AppSettings": {
+    "SiteEmailAddress": "me@aol.com",
+    "BingKey": "DONTHARDCODEKEYS"
+  },
+  "Data": {
+    //"WorldContextConnection": "Server=tcp:vaqqbnsngf.database.windows.net,1433;Database=QuintonsWorld_db;User ID=qstibbins@vaqqbnsngf;Password=Stibbinq99;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;"
+    "WorldContextConnection": "Server=(localdb)\\ProjectsV12;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+  
+}
